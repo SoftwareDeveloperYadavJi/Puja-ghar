@@ -16,23 +16,24 @@ const App = () => {
         '4. Conclude with Aarti.'
     },
     {
-      title: 'Durga Puja',
+      title: 'Ganesh Pooja',
       imageUrl: 'https://images.unsplash.com/photo-1613422954567-8eade6e47038?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
       description:
-        'Celebrate Durga Puja with devotion:\n' +
-        '1. Establish Durga idol.\n' +
-        '2. Offer flowers and prasad.\n' +
-        '3. Chant Durga Chalisa.\n' +
-        '4. Perform Sandhi Puja during Navaratri.'
+      'Embrace Ganesh Puja with reverence:\n' +
+      '1. Install Lord Ganesh\'s idol.\n' +
+      '2. Present flowers and prasad.\n' +
+      '3. Recite Ganesh Chalisa.\n' +
+      '4. Conduct the Ganesh Sandhi Puja during the auspicious days of worship.'
+
     },{
-      title: 'Durga Puja',
+      title: 'Laxmi pooja',
       imageUrl: 'https://plus.unsplash.com/premium_photo-1674898515661-7dfe776368b3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
       description:
-        'Celebrate Durga Puja with devotion:\n' +
-        '1. Establish Durga idol.\n' +
-        '2. Offer flowers and prasad.\n' +
-        '3. Chant Durga Chalisa.\n' +
-        '4. Perform Sandhi Puja during Navaratri.'
+      "Observe Laxmi Puja with reverence:\n" +
+      "1. Set up the Laxmi idol.\n" +
+      "2. Present flowers and prasad.\n" +
+      "3. Recite Laxmi Chalisa.\n" +
+      "4. Conduct Sandhi Puja during Navaratri."
     }
 
     // Add more puja data as needed
